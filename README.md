@@ -185,10 +185,13 @@ trends.html
 ```
 ## OUTPUT
 <img width="1920" height="1200" alt="Screenshot 2025-11-14 091807" src="https://github.com/user-attachments/assets/266088a5-5009-4c98-87db-da1251d3afb2" />
-![alt text](2-1.png)
-![alt text](3-1.png)
-![alt text](4-1.png)
-![alt text](5-1.png)
-![alt text](6-1.png)
+<img width="1541" height="881" alt="Screenshot 2025-11-14 091934" src="https://github.com/user-attachments/assets/48c3448e-74e1-4c8f-b537-ffcaaed6cc7c" />
+<img width="1543" height="890" alt="Screenshot 2025-11-14 092005" src="https://github.com/user-attachments/assets/d970da3f-f69f-4247-94be-4e670141eba5" />
+<img width="1539" height="917" alt="Screenshot 2025-11-14 092018" src="https://github.com/user-attachments/assets/b80ccd7e-3632-49ce-93cd-df85124504d5" />
+<img width="1551" height="857" alt="Screenshot 2025-11-14 092030" src="https://github.com/user-attachments/assets/6f72549b-04ae-4790-a988-61925c69e37c" />
+
+<img width="1552" height="820" alt="Screenshot 2025-11-14 092040" src="https://github.com/user-attachments/assets/8f40c15f-ae7d-4d80-ba12-fa77209203f2" />
+
 ## RESULT
+
 The program for implementing image maps using HTML is executed successfully.
