@@ -1,5 +1,5 @@
-# Ex03 Places Around Me
-## Date: 
+# Ex04 Places Around Me
+## Date: 14.11.2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -10,24 +10,22 @@ To develop a website to display details about the places around my house.
 Create a Django admin interface.
 
 ### STEP 2
-Download your city map from Google as an image.
+Download your city map from Google.
 
 ### STEP 3
-Insert the image using ```<img>``` tag and link it to the map.
-
-### STEP 4
 Using ```<map>``` tag name the map.
 
-### STEP 5
+### STEP 4
 Create clickable regions in the image using ```<area>``` tag.
 
-### STEP 6
+### STEP 5
 Write HTML programs for all the regions identified.
 
-### STEP 7
+### STEP 6
 Execute the programs and publish them.
 
 ## CODE
+```
 map.html
 
 html>
@@ -184,14 +182,13 @@ trends.html
     </p>
 </body>
 </html>
-
+```
 ## OUTPUT
-![Alt text](<Screenshot 2025-11-14 091807.png>)
-
-![Alt text](<Screenshot 2025-11-14 092040.png>)
-![Alt text](<Screenshot 2025-11-14 091934.png>)
-![Alt text](<Screenshot 2025-11-14 092005.png>)
-![Alt text](<Screenshot 2025-11-14 092018.png>)
-![Alt text](<Screenshot 2025-11-14 092030.png>)
+<img width="1920" height="1200" alt="Screenshot 2025-11-14 091807" src="https://github.com/user-attachments/assets/266088a5-5009-4c98-87db-da1251d3afb2" />
+![alt text](2-1.png)
+![alt text](3-1.png)
+![alt text](4-1.png)
+![alt text](5-1.png)
+![alt text](6-1.png)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
